@@ -2,6 +2,10 @@
 
 This started as an attempt to make another RIME schema for Taigi. The schema isn't done (yet), but several things made along the way are.
 
+## Todo
+
+essay-taigi.txt has a ton of duplicates. We should also probably have a word list where everything is in TL.
+
 ## Taigi word frequencies
 
 Rudimentary (kind of usable) word frequencies can be found in `essay-taigi.txt`.
